@@ -1,0 +1,9 @@
+El archivo con el repositorio de github creado para este proyecto se encuentra en la siguiente liga
+https://github.com/pac05an/Equipo_S_modelos_avanzados_infotec
+
+Por cuestiones de memeoria github no nos deja cargar el archivo que contiene la información con la que se trabajo en este proyecto,
+ por estas razones se decidio poner la liga del drive la cual contiene el archivo en carpeta zip denominado "df_sample_amex"
+ liga de acceso al drive
+ https://drive.google.com/drive/folders/1cGBdiz0h5V0zvLMw5tKDDIvI_T1ymyZa?usp=sharing
+ 
+ 
